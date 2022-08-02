@@ -1,2 +1,2 @@
 # Workspace
- Este é o começo de uma página Main onde arquivarei muitos conteúdos relacionados aos estudo e evoluções ao longo da carreira.
+ Este é o começo de uma página Main onde arquivarei muitos conteúdos relacionados aos estudos e evoluções ao longo da carreira.
